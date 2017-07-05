@@ -1,0 +1,12 @@
+ff32a4204207701e98360a3f52d9400b *DESCRIPTION
+b91745e6c005306fcf5291f41af6d86e *NAMESPACE
+ed977ebce37e43d65bf9802599a4015e *R/pdols.R
+a65fe3479606e8c677adbf428e7b644b *R/pdols_fit.R
+8d461dbdf808935388a3c4d4addc468a *R/pdols_sub.R
+818602c8d716c9d2ac101f4d62a09495 *data/marksul2003.RData
+8c2d59d5bde1c07df097b8a888503193 *man/coef.pdols.Rd
+94c7c2f647c6c08904fa9781dabe37e7 *man/marksul2003.Rd
+840186ac9dbd4b5f191a9f68eecb8fd9 *man/pdols.Rd
+e0bac1d357595c1ab05f902bb559fb36 *man/pdolsms.Rd
+fba16b7b0ec9881696127427d9342d06 *man/print.pdols.Rd
+6d4ff94369275316a38c7d525fc3c428 *man/summary.pdols.Rd
